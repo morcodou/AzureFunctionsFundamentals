@@ -25,6 +25,13 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+#azurite
+__blobstorage__/
+__queuestorage__
+AzureStorageEmulator/
+__azurite_db_*.json
+
+
 # Visual Studio 2015 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
